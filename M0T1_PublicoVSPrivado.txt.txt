@@ -1,0 +1,5 @@
+Anotar una hipótesis de por qué un proyecto se visualiza y otro no.
+Los dos proyectos en GitbHub se determinan en dos diferentes organizaciónes ya que al ingresar en cada uno se elige opciones distintas es decir.
+En el primer proyecto denominado Mi-primer-repositorio se selecciona quien puede ver el repositorio y se elige público de esta manera todos los usuarios podran acceder a el repositorio.
+En el segundo proyecto denominado como Mi-segundo-repositorio seleccionamos la opción privado es decir que tendremos el control de quien puede ver y acceder al repositorio.
+Podemos definir que se visualiza mediante elegir público y el otro no se visualiza abiertamente a todos los usuarios por que es  privado.
